@@ -1,5 +1,8 @@
 # Machine Translation with RNNs
 
+
+The useful files for the computation of our project are machine_translation_final.ipynb and the folder "data" which contains the different data we worked on.
+
 ## Goal
 In this project, we build somes deep neural network for automatic translation. The algorithms accepts English text as input and returns the French translation. The goal is to achieve the highest translation accuracy possible. We found some scores already defined by researchers such as blue scores that we introduced during our presentation.
 
